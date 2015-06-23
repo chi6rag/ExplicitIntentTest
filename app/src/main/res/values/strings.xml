@@ -8,6 +8,7 @@
     <string name="button_open_activity_three">Open Activity Three</string>
 
     <string name="text_inside_activity_two">Inside Activity Two</string>
+    <string name="button_go_back_to_main">Go Back to Main</string>
 
     <string name="text_inside_activity_three">Inside Activity Three</string>
     <string name="title_activity_activity_three">ActivityThree</string>
